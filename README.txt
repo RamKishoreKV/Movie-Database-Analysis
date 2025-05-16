@@ -78,7 +78,7 @@ We investigate genre trends, build predictive models, create a movie recommendat
 ### 👥 Acknowledgments
 
 This project was completed by  
-**Ram Kishore Karuppiah Nadar Venkateswaran**  
+**Ram Kishore KV**  
 with the help of **Chaitanya Shashi Kumar** and **Robert Lignowski**  
 for coursework at **Drexel University**.
 
